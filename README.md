@@ -1,0 +1,2 @@
+# hawkesprocess
+Simulates Hawkes Processes
