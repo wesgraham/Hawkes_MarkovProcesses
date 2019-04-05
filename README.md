@@ -1,4 +1,4 @@
-# hawkesprocess
+# Hawkes_MarkovProcesses
 Python Script for Simulating Hawkes Processes
 
 ## About Hawkes Processes
