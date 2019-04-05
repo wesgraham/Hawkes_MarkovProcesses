@@ -1,5 +1,5 @@
 # Hawkes_MarkovProcesses
-Python Script for Simulating Hawkes Processes
+Python Script for Simulating Hawkes and Markov Processes
 
 ## About Hawkes Processes
 Hawkes processes are a particularly interesting class of stochastic process that have been applied in diverse areas, from earthquake modelling to financial analysis. They are point processes whose defining characteristic is that they 'self-excite', meaning that each arrival increases the rate of future arrivals for some period of time. Hawkes processes are well established, particularly within the financial literature, yet many of the treatments are inaccessible to one not acquainted with the topic. 
