@@ -6,5 +6,5 @@ Hawkes processes are a particularly interesting class of stochastic process that
 
 This type of process is used to model self-exciting point processes, for example - how many tweets one could expect in the event of a major news event, the buying order tendencies displayed once a whale purchases a large lump sum of stock, and more. 
 
-## Interacting with the Script
-To model a point process, call the function wes_hawkes(lambda_0, alpha, beta, bigTboi). Keep in mind that alpha <= beta. 
+## About Markov Decision Processes
+A Markov decision process (MDP) is a discrete time stochastic control process. It provides a mathematical framework for modeling decision making in situations where outcomes are partly random and partly under the control of a decision maker. MDPs are useful for studying optimization problems solved via dynamic programming and reinforcement learning. *Source: Wikipedia*
